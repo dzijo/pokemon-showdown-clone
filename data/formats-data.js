@@ -14,8 +14,7 @@ let BattleFormatsData = {
 		encounters: [
 			{"generation": 1, "level": 5},
 		],
-		isUnreleased: "Past",
-		tier: "Unreleased",
+		tier: "LC",
 	},
 	ivysaur: {
 		isUnreleased: "Past",
