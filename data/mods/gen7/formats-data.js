@@ -5742,6 +5742,447 @@ let BattleFormatsData = {
 		isNonstandard: "LGPE",
 		tier: "Illegal",
 	},
+	grookey: {
+		unreleasedHidden: true,
+		tier: "LC",
+	},
+	thwackey: {
+		unreleasedHidden: true,
+		tier: "NFE",
+	},
+	rillaboom: {
+		randomBattleMoves: ["bulkup", "drumbeating", "highhorsepower", "substitute", "superpower", "uturn"],
+		unreleasedHidden: true,
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	scorbunny: {
+		unreleasedHidden: true,
+		tier: "LC",
+	},
+	raboot: {
+		unreleasedHidden: true,
+		tier: "NFE",
+	},
+	cinderace: {
+		randomBattleMoves: ["courtchange", "gunkshot", "highjumpkick", "pyroball", "uturn", "zenheadbutt"],
+		unreleasedHidden: true,
+		tier: "OU",
+		doublesTier: "DUU",
+	},
+	sobble: {
+		unreleasedHidden: true,
+		tier: "LC",
+	},
+	drizzile: {
+		unreleasedHidden: true,
+		tier: "NFE",
+	},
+	inteleon: {
+		randomBattleMoves: ["airslash", "darkpulse", "hydropump", "icebeam", "scald", "uturn"],
+		unreleasedHidden: true,
+		tier: "UU",
+		doublesTier: "DUU",
+	},
+	skwovet: {
+		unreleasedHidden: true,
+		tier: "LC",
+	},
+	greedent: {
+		randomBattleMoves: ["bodyslam", "earthquake", "gyroball", "payback", "swordsdance"],
+		unreleasedHidden: true,
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	rookidee: {
+		tier: "LC",
+	},
+	corvisquire: {
+		tier: "NFE",
+	},
+	corviknight: {
+		randomBattleMoves: ["bodypress", "bravebird", "bulkup", "defog", "roost"],
+		tier: "OU",
+		doublesTier: "DOU",
+	},
+	corviknightgmax: {
+		isGigantamax: "G-Max Wind Rage",
+		tier: "Uber",
+		doublesTier: "DOU",
+	},
+	blipbug: {
+		tier: "LC",
+	},
+	dottler: {
+		tier: "NFE",
+	},
+	orbeetle: {
+		randomBattleMoves: ["bodypress", "hypnosis", "psychic", "recover", "stickyweb", "uturn"],
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	orbeetlegmax: {
+		isGigantamax: "G-Max Gravitas",
+		tier: "Uber",
+		doublesTier: "DUU",
+	},
+	nickit: {
+		unreleasedHidden: true,
+		tier: "LC",
+	},
+	thievul: {
+		randomBattleMoves: ["darkpulse", "foulplay", "grassknot", "nastyplot", "partingshot", "psychic"],
+		unreleasedHidden: true,
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	gossifleur: {
+		tier: "LC",
+	},
+	eldegoss: {
+		randomBattleMoves: ["aromatherapy", "charm", "energyball", "pollenpuff", "rapidspin", "sleeppowder", "synthesis"],
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	wooloo: {
+		unreleasedHidden: true,
+		tier: "LC",
+	},
+	dubwool: {
+		randomBattleMoves: ["bodypress", "cottonguard", "rest", "sleeptalk"],
+		unreleasedHidden: true,
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	chewtle: {
+		tier: "LC",
+	},
+	drednaw: {
+		randomBattleMoves: ["liquidation", "stealthrock", "stoneedge", "superpower", "swordsdance"],
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	drednawgmax: {
+		isGigantamax: "G-Max Stonesurge",
+		tier: "Uber",
+		doublesTier: "DUU",
+	},
+	yamper: {
+		unreleasedHidden: true,
+		tier: "LC",
+	},
+	boltund: {
+		randomBattleMoves: ["bulkup", "crunch", "firefang", "playrough", "psychicfangs", "thunderfang", "voltswitch"],
+		unreleasedHidden: true,
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	rolycoly: {
+		tier: "LC",
+	},
+	carkol: {
+		tier: "NFE",
+	},
+	coalossal: {
+		randomBattleMoves: ["bodypress", "fireblast", "rapidspin", "spikes", "stealthrock", "stoneedge"],
+		tier: "UU",
+		doublesTier: "DUU",
+	},
+	coalossalgmax: {
+		isGigantamax: "G-Max Volcalith",
+		tier: "Uber",
+		doublesTier: "DUU",
+	},
+	applin: {
+		tier: "LC",
+	},
+	flapple: {
+		randomBattleMoves: ["dragondance", "gravapple", "outrage", "suckerpunch", "uturn"],
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	flapplegmax: {
+		isGigantamax: "G-Max Tartness",
+		tier: "Uber",
+		doublesTier: "DUU",
+	},
+	appletun: {
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	appletungmax: {
+		randomBattleMoves: ["appleacid", "dracometeor", "dragonpulse", "leechseed", "recover"],
+		isGigantamax: "G-Max Sweetness",
+		tier: "Uber",
+		doublesTier: "DUU",
+	},
+	silicobra: {
+		tier: "LC",
+	},
+	sandaconda: {
+		randomBattleMoves: ["bodypress", "coil", "earthquake", "stoneedge", "rest"],
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	sandacondagmax: {
+		randomBattleMoves: ["bodypress", "earthquake", "glare", "stealthrock", "stoneedge"],
+		isGigantamax: "G-Max Sandblast",
+		tier: "Uber",
+		doublesTier: "DUU",
+	},
+	cramorant: {
+		randomBattleMoves: ["defog", "hurricane", "icebeam", "roost", "surf"],
+		tier: "UU",
+		doublesTier: "DUU",
+	},
+	cramorantgulping: {
+		requiredAbility: "Gulp Missile",
+		battleOnly: true,
+	},
+	cramorantgorging: {
+		requiredAbility: "Gulp Missile",
+		battleOnly: true,
+	},
+	arrokuda: {
+		tier: "LC",
+	},
+	barraskewda: {
+		randomBattleMoves: ["closecombat", "crunch", "drillrun", "liquidation", "poisonjab"],
+		tier: "UU",
+		doublesTier: "DUU",
+	},
+	toxel: {
+		tier: "LC",
+	},
+	toxtricity: {
+		randomBattleMoves: ["boomburst", "overdrive", "shiftgear", "sludgewave", "voltswitch"],
+		tier: "OU",
+		doublesTier: "DOU",
+	},
+	toxtricitylowkey: {
+		randomBattleMoves: ["boomburst", "overdrive", "sludgewave", "voltswitch"],
+	},
+	toxtricitygmax: {
+		isGigantamax: "G-Max Stun Shock",
+		isUnreleased: true,
+		tier: "Unreleased",
+	},
+	sizzlipede: {
+		tier: "LC",
+	},
+	centiskorch: {
+		randomBattleMoves: ["coil", "firelash", "knockoff", "leechlife", "powerwhip"],
+		tier: "UU",
+		doublesTier: "DUU",
+	},
+	centiskorchgmax: {
+		isGigantamax: "G-Max Centiferno",
+		tier: "Uber",
+		doublesTier: "DUU",
+	},
+	clobbopus: {
+		tier: "LC",
+	},
+	grapploct: {
+		randomBattleMoves: ["brutalswing", "circlethrow", "drainpunch", "icepunch", "suckerpunch"],
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	sinistea: {
+		tier: "LC",
+	},
+	polteageist: {
+		randomBattleMoves: ["gigadrain", "shadowball", "shellsmash", "storedpower", "strengthsap"],
+		tier: "UU",
+		doublesTier: "DUU",
+	},
+	hatenna: {
+		tier: "LC",
+	},
+	hattrem: {
+		tier: "NFE",
+	},
+	hatterene: {
+		tier: "OU",
+		doublesTier: "DOU",
+	},
+	hatterenegmax: {
+		randomBattleMoves: ["calmmind", "darkpulse", "dazzlinggleam", "mysticalfire", "psychic", "trickroom"],
+		isGigantamax: "G-Max Smite",
+		tier: "Uber",
+		doublesTier: "DOU",
+	},
+	impidimp: {
+		tier: "LC",
+	},
+	morgrem: {
+		tier: "NFE",
+	},
+	grimmsnarl: {
+		randomBattleMoves: ["bulkup", "rest", "sleeptalk", "spiritbreak"],
+		tier: "OU",
+		doublesTier: "DOU",
+	},
+	grimmsnarlgmax: {
+		randomBattleMoves: ["bulkup", "darkestlariat", "playrough", "substitute", "suckerpunch", "thunderwave", "trick"],
+		isGigantamax: "G-Max Snooze",
+		tier: "Uber",
+		doublesTier: "DOU",
+	},
+	milcery: {
+		tier: "LC",
+	},
+	alcremie: {
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	alcremiegmax: {
+		randomBattleMoves: ["calmmind", "dazzlinggleam", "mysticalfire", "psychic", "recover"],
+		isGigantamax: "G-Max Finale",
+		tier: "Uber",
+		doublesTier: "DUU",
+	},
+	falinks: {
+		randomBattleMoves: ["closecombat", "noretreat", "poisonjab", "rockslide", "throatchop"],
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	pincurchin: {
+		randomBattleMoves: ["discharge", "recover", "selfdestruct", "spikes", "suckerpunch", "toxicspikes"],
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	snom: {
+		tier: "LC",
+	},
+	frosmoth: {
+		randomBattleMoves: ["bugbuzz", "hurricane", "icebeam", "quiverdance", "uturn"],
+		tier: "UU",
+		doublesTier: "DUU",
+	},
+	stonjourner: {
+		randomBattleMoves: ["earthquake", "heatcrash", "rockpolish", "stealthrock", "stoneedge"],
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	eiscue: {
+		randomBattleMoves: ["bellydrum", "iciclecrash", "liquidation", "substitute", "zenheadbutt"],
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	eiscuenoice: {
+		requiredAbility: "Ice Face",
+		battleOnly: true,
+	},
+	indeedee: {
+		randomBattleMoves: ["calmmind", "hypervoice", "mysticalfire", "psychic", "trick"],
+		tier: "UU",
+		doublesTier: "DUU",
+	},
+	indeedeef: {
+		randomBattleMoves: ["aromatherapy", "calmmind", "hypervoice", "mysticalfire", "psychic"],
+		tier: "RU",
+		doublesTier: "DOU",
+	},
+	morpeko: {
+		randomBattleMoves: ["aurawheel", "foulplay", "partingshot", "protect", "psychicfangs", "rapidspin"],
+		tier: "UU",
+		doublesTier: "DUU",
+	},
+	morpekohangry: {
+		requiredAbility: "Hunger Switch",
+		battleOnly: true,
+	},
+	cufant: {
+		tier: "LC",
+	},
+	copperajah: {
+		randomBattleMoves: ["earthquake", "ironhead", "playrough", "rockslide", "stealthrock"],
+		tier: "UU",
+		doublesTier: "DUU",
+	},
+	copperajahgmax: {
+		randomBattleMoves: ["earthquake", "heatcrash", "heavyslam", "powerwhip", "stoneedge"],
+		isGigantamax: "G-Max Steelsurge",
+		tier: "Uber",
+		doublesTier: "DUU",
+	},
+	dracozolt: {
+		randomBattleMoves: ["aerialace", "boltbeak", "earthquake", "lowkick", "outrage"],
+		unreleasedHidden: true,
+		tier: "OU",
+		doublesTier: "DUU",
+	},
+	arctozolt: {
+		randomBattleMoves: ["boltbeak", "bulldoze", "freezedry", "iciclecrash", "lowkick"],
+		unreleasedHidden: true,
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	dracovish: {
+		randomBattleMoves: ["crunch", "fishiousrend", "icefang", "lowkick", "psychicfangs"],
+		unreleasedHidden: true,
+		tier: "OU",
+		doublesTier: "DOU",
+	},
+	arctovish: {
+		randomBattleMoves: ["bodyslam", "fishiousrend", "freezedry", "iciclecrash", "psychicfangs"],
+		unreleasedHidden: true,
+		tier: "RU",
+		doublesTier: "DUU",
+	},
+	duraludon: {
+		randomBattleMoves: ["bodypress", "dracometeor", "flashcannon", "stealthrock", "thunderbolt"],
+		tier: "UU",
+		doublesTier: "DOU",
+	},
+	duraludongmax: {
+		isGigantamax: "G-Max Depletion",
+		tier: "Uber",
+		doublesTier: "DOU",
+	},
+	dreepy: {
+		tier: "LC",
+	},
+	drakloak: {
+		tier: "NFE",
+	},
+	dragapult: {
+		randomBattleMoves: ["dracometeor", "fireblast", "shadowball", "thunderbolt", "uturn"],
+		tier: "OU",
+		doublesTier: "DOU",
+	},
+	zacian: {
+		randomBattleMoves: ["closecombat", "crunch", "playrough", "psychicfangs", "swordsdance"],
+		tier: "Uber",
+		doublesTier: "DUber",
+	},
+	zaciancrowned: {
+		randomBattleMoves: ["behemothblade", "closecombat", "crunch", "playrough", "psychicfangs", "swordsdance"],
+		tier: "Uber",
+		doublesTier: "DUber",
+		requiredItem: "Rusted Sword",
+	},
+	zamazenta: {
+		randomBattleMoves: ["closecombat", "crunch", "psychicfangs", "wildcharge"],
+		tier: "Uber",
+		doublesTier: "DUber",
+	},
+	zamazentacrowned: {
+		randomBattleMoves: ["behemothbash", "closecombat", "crunch", "psychicfangs"],
+		tier: "Uber",
+		doublesTier: "DUber",
+		requiredItem: "Rusted Shield",
+	},
+	eternatus: {
+		randomBattleMoves: ["dynamaxcannon", "flamethrower", "recover", "sludgewave", "toxic"],
+		tier: "Uber",
+		doublesTier: "DUber",
+	},
+	eternatuseternamax: {
+		isNonstandard: "Unobtainable",
+		tier: "Illegal",
+	}
 };
 
 exports.BattleFormatsData = BattleFormatsData;
